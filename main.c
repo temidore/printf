@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "main.h"
 
-/**
+/**tems
  * main - Entry point
  *
  * Return: Always 0

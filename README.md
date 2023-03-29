@@ -1,4 +1,4 @@
-0x11. C - printf team project.co
+0x11. C - printf team project
 
 Group Project:                                                                      
                                                                                     
